@@ -7,4 +7,4 @@
 
 ## Instructions
 
-If you want to view my pixel art maker, please click [Here](https://classroom.udacity.com/me).
+If you want to view my pixel art maker, please click [Here](https://codedman.github.io/obate-pixel-project/).
